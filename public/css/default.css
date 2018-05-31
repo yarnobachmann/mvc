@@ -3,7 +3,6 @@ body {
     font: 14px 'trebuchet ms', arial, sans-serif;
 }
 
-/** Structure */
 #wrapper{
   margin-left: 3%;
   margin-right: 3%;
@@ -41,7 +40,6 @@ h1{
     border-bottom-right-radius: 10px;
 }
 
-/* Links */
 #header a {
     color: #fff;
     background: #6e120f;
@@ -56,7 +54,6 @@ h1{
     background: #55100d;
 }
 
-/** Forms */
 form {
     font: 100% verdana,arial,sans-serif;
 }
@@ -82,8 +79,9 @@ form input[type=submit]:hover {
     background: silver;
 }
 
-
-form br {clear: left;}
+form br {
+  clear: left;
+}
 
 #listInserts {
 padding-left: 2%;
@@ -99,7 +97,6 @@ table{
   width: 100%;
   border-left: 1px solid rgb(168, 168, 168);
 }
-
 
 .delete{
   color: red;
