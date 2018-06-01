@@ -1,5 +1,5 @@
 <h1>Help</h1>
 
 <p>
-This is the help.
+If you need any help you are screwed! This is a easy website!
 </p>
